@@ -1,7 +1,7 @@
 ### Shortcuts
 
-Package explorer: `CMD + SHIFT + P`
+- Package explorer: `CMD + SHIFT + P`
 
-Multi-line edit: `CMD + SHIFT + L`
+- Multi-line edit: `CMD + SHIFT + L`
 
-Multi-text selection: `CMD + CTRL + G`
+- Multi-text selection: `CMD + CTRL + G`

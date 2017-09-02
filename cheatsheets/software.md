@@ -10,4 +10,8 @@ Data Viz: `Tableau`
 
 Stay-on Utility: `Caffeine`
 
+Better Terminal: `zsh`
+
+Terminal Interface: `iTerm`
+
 Screen Light Adjustment: `Flux`

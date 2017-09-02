@@ -7,3 +7,5 @@ alias jpn="jupyter notebook"
 alias treee="tree -C -h"
 # create a project folder structure
 alias initp="mkdir inputs;mkdir outputs;mkdir data;mkdir scripts;mkdir notebooks;touch readme.md; tree"
+# search your past commands
+alias ht="history | grep"

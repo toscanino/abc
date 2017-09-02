@@ -1,17 +1,17 @@
 #### Useful Tools
 
-Versatile Text Editor: `Sublime`
+- Versatile Text Editor: `Sublime`
 
-PostgreSQL: `PSequel`
+- PostgreSQL: `PSequel`
 
-API Calls: `Postman`
+- API Calls: `Postman`
 
-Data Viz: `Tableau`
+- Data Viz: `Tableau`
 
-Stay-on Utility: `Caffeine`
+- Stay-on Utility: `Caffeine`
 
-Better Terminal: `zsh`
+- Better Terminal: `zsh`
 
-Terminal Interface: `iTerm`
+- Terminal Interface: `iTerm`
 
-Screen Light Adjustment: `Flux`
+- Screen Light Adjustment: `Flux`

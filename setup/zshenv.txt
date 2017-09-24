@@ -9,3 +9,5 @@ alias treee="tree -C -h"
 alias initp="mkdir inputs;mkdir outputs;mkdir data;mkdir scripts;mkdir notebooks;touch readme.md; tree"
 # search your past commands
 alias ht="history | grep"
+# investigate heaviest directories
+alias topten="du -a |sort -n -r |head -n 10"

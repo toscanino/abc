@@ -13,3 +13,5 @@ alias ht="history | grep"
 alias topten="du -a |sort -n -r |head -n 10"
 # autojump path specification
 [ -f /usr/local/etc/profile.d/autojump.sh ] && . /usr/local/etc/profile.d/autojump.sh
+# open project in PyCharm
+alias pyc="open -a PyCharm ."

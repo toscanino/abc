@@ -11,3 +11,5 @@ alias initp="mkdir inputs;mkdir outputs;mkdir data;mkdir scripts;mkdir notebooks
 alias ht="history | grep"
 # investigate heaviest directories
 alias topten="du -a |sort -n -r |head -n 10"
+# autojump path specification
+[ -f /usr/local/etc/profile.d/autojump.sh ] && . /usr/local/etc/profile.d/autojump.sh

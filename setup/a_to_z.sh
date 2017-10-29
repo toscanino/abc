@@ -8,3 +8,9 @@ chsh -s /usr/local/bin/zsh
 brew install zsh zsh-completions
 # tree
 brew install tree
+# pipe viewer
+brew install pv
+# auto-jump
+brew install autojump
+# gpg encryption
+brew install gpg

@@ -15,3 +15,11 @@ alias topten="du -a |sort -n -r |head -n 10"
 [ -f /usr/local/etc/profile.d/autojump.sh ] && . /usr/local/etc/profile.d/autojump.sh
 # open project in PyCharm
 alias pyc="open -a PyCharm ."
+# search processes
+alias runp="ps aux | grep"
+# pretty git log
+alias glog="git log --oneline head -10"
+# copy current dir
+alias here="pwd | pbcopy"
+# open bash profile
+alias zs="subl .zshenv"

@@ -14,3 +14,11 @@ brew install pv
 brew install autojump
 # gpg encryption
 brew install gpg
+# fuzzy search with recursion
+brew install fzf
+# display files with highlighting
+brew install bat
+# alternative colorful ls
+brew install exa
+# better simpler find
+brew install fd

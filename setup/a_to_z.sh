@@ -22,3 +22,15 @@ brew install bat
 brew install exa
 # better simpler find
 brew install fd
+# better grep
+brew install rp
+# interactive filter
+brew install peco
+# analyze disk space
+brew install ncdu
+# better curl
+brew install httpie
+# file selector
+brew install fpp
+# json player
+brew install gron 

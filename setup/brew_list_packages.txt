@@ -13,6 +13,7 @@ gettext
 gmp
 gnupg
 gnutls
+grip
 gron
 httpie
 icu4c
@@ -22,6 +23,7 @@ libevent
 libffi
 libgcrypt
 libgpg-error
+libidn2
 libksba
 libtasn1
 libunistring
@@ -53,9 +55,12 @@ rename
 ripgrep
 sbt
 sqlite
+swagger-codegen
 tmux
 tree
 up
+watch
+wget
 xz
 zsh
 zsh-completions

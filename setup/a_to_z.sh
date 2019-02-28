@@ -14,6 +14,8 @@ for rcfile in "${ZDOTDIR:-$HOME}"/.zprezto/runcoms/^README.md(.N); do
   ln -s "$rcfile" "${ZDOTDIR:-$HOME}/.${rcfile:t}"
 done
 chsh -s /usr/local/bin/zsh
+# set up subl to open sublime
+ln -sv "/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl" /usr/local/bin/sub
 brew install zsh zsh-completions
 # tree
 brew install tree

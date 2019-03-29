@@ -15,3 +15,4 @@ for rcfile in "${ZDOTDIR:-$HOME}"/.zprezto/runcoms/^README.md(.N); do
 done
 chsh -s /usr/local/bin/zsh
 git config --global alias.st status
+defaults write com.apple.screencapture location /Users/arthurcahen/Desktop/screenshots

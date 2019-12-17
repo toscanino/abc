@@ -1,5 +1,6 @@
 # homebrew
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+brew install zsh
 # install conda from https://docs.conda.io/projects/conda/en/latest/user-guide/install/macos.html
 bash Miniconda3-latest-MacOSX-x86_64.sh
 export PATH=~/miniconda3/bin:$PATH
@@ -15,4 +16,4 @@ for rcfile in "${ZDOTDIR:-$HOME}"/.zprezto/runcoms/^README.md(.N); do
 done
 chsh -s /usr/local/bin/zsh
 git config --global alias.st status
-defaults write com.apple.screencapture location /Users/arthurcahen/Desktop/screenshots
+defaults write com.apple.screencapture location /Users/arthurcahen/Documents/screenshots

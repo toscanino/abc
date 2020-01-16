@@ -1,8 +1,9 @@
 # homebrew
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 brew install zsh
-# install conda from https://docs.conda.io/projects/conda/en/latest/user-guide/install/macos.html
-bash Miniconda3-latest-MacOSX-x86_64.sh
+# install conda
+brew cask install anaconda
+conda init
 export PATH=~/miniconda3/bin:$PATH
 # pip
 conda install pip

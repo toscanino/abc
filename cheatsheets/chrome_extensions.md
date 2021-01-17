@@ -1,4 +1,4 @@
-- Lastpass
+- Lastpass / Keeper
 
 - OneTab
 
@@ -9,3 +9,5 @@
 - Pocket => create CMD + Shift +P shortcut to save
 
 - Momentum
+
+- Toggl

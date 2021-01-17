@@ -1,7 +1,6 @@
-- install lastpass app on chrome
-- log in to chrome under google user
 - Export chrome bookmark > import bookmark
 - Settings > keyboard > fast repeat and low wait before key repeat
 - Remove useless apps from dock
 - Go through /abc repo for installs / software (e.g. iterm2)
-- Conda for python envs
+- Set-up screenshot folder
+

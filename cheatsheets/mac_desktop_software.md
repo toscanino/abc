@@ -2,6 +2,8 @@
 
 - PostgreSQL: `PSequel`
 
+- MySQL: `Sequel Pro`
+
 - API Calls: `Postman`
 
 - Data Viz: `Tableau`
@@ -14,6 +16,8 @@
 
 - Screen Light Adjustment: `Flux`
 
-- The best of the best: `Shazam`
+- Of course: `Shazam`
 
-- Sync data with the cloud: `Google Drive`
+- Super-power: `Alfred`
+
+- Move windows around: `Spectacle`

@@ -44,7 +44,6 @@ peco
 pinentry
 pipenv
 pkg-config
-postgresql
 pv
 pyenv
 python
@@ -54,8 +53,6 @@ readline
 rename
 ripgrep
 sbt
-sqlite
-swagger-codegen
 tmux
 tree
 up

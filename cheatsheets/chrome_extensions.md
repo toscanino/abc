@@ -11,3 +11,5 @@
 - Momentum
 
 - Toggl
+
+- Dark Reader

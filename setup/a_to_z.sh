@@ -1,3 +1,4 @@
+# WORK IN PROGRESS
 # homebrew
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 brew install zsh
@@ -14,9 +15,3 @@ chsh -s /usr/local/bin/zsh
 git config --global alias.st status
 # system I/O preference
 defaults write com.apple.screencapture location /Users/arthurcahen/Documents/screenshots
-# install conda
-brew cask install anaconda
-# not sure about the setup, been a pain, try this
-conda init
-# install java
-brew cask install java

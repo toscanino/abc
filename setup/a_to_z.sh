@@ -8,3 +8,10 @@ curl -L https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh | 
 git clone --recursive https://github.com/sorin-ionescu/prezto.git "${ZDOTDIR:-$HOME}/.zprezto"
 # choose shell
 chsh -s /usr/local/bin/zsh
+# install git & setup key for github
+brew install git
+ssh-keygen -t rsa
+pbcopy < ~/.ssh/id_rsa.pub
+git clone git@github.com:arthurcahen/abc.git
+# update profile 
+cat .zshenv >> /Users/{USERNAME}/.zshenv

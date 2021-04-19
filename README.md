@@ -1,5 +1,5 @@
 ## a.b.c
-[abc](http://www.macmillandictionary.com/us/dictionary/american/the-abc-s-of-something) of efficiency - lots of shiny, groovy tricks you might enjoy
+[abc](http://www.macmillandictionary.com/us/dictionary/american/the-abc-s-of-something) of efficiency - sample tricks for:
 
 - `Machine set-up` 
 
@@ -7,4 +7,4 @@
 
 - `Personal configurations`
 
-ps: refer to this mac set-up [guide](https://sourabhbajaj.com/mac-setup/) too
+ps: bonus [guide](https://sourabhbajaj.com/mac-setup/)

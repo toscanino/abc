@@ -1,0 +1,12 @@
+autoconf
+exa
+bat
+fd
+fzf
+jq
+ncdu
+peco
+pv
+telnet
+autojump
+tree

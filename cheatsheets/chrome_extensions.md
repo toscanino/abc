@@ -1,15 +1,9 @@
 - Lastpass / Keeper
 
-- OneTab
+- AdBlocker(s)
 
-- uBlock Origin
+- Pocket
 
-- Adblock Plus
-
-- Pocket => create CMD + Shift +P shortcut to save
-
-- Momentum
-
-- Toggl
+- Unsplash
 
 - Dark Reader

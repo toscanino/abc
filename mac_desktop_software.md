@@ -8,4 +8,4 @@
 
 - Music: `Shazam`
 
-- Super-powers: `Alfred`
+- Super-powers: `Raycast`

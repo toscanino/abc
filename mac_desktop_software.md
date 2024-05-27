@@ -1,6 +1,6 @@
-- Versatile Text Editor: `Sublime`
+- Code Quick Editor: `Sublime`
 
-- API Calls: `Postman`
+- Dev Editor: `VSCode`
 
 - Terminal Interface: `iTerm`
 
@@ -9,3 +9,9 @@
 - Music: `Shazam`
 
 - Super-powers: `Raycast`
+
+- Browser: `Arc`
+
+- Calendar: `Notion calendar` (ex-Cron)
+
+- Work: `Notion`

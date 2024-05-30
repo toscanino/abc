@@ -1,17 +1,10 @@
-# homebrew
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
-# save brew command to profile
+# Install Oh My Zsh, a framework for managing Zsh configuration
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+# Append the Homebrew environment setup command to the Zsh profile for automatic execution on terminal startup
 echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> /Users/{USERNAME}/.zprofile
-# oh-my-zsh
-curl -L https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh | sh
-# zsh config & bonus
+# Clone the Prezto repository, which is a configuration framework for Zsh, into the designated directory
 git clone --recursive https://github.com/sorin-ionescu/prezto.git "${ZDOTDIR:-$HOME}/.zprezto"
-# choose shell
+# Change the default shell to Zsh
 chsh -s /usr/local/bin/zsh
-# install git & setup key for github
-brew install git
-ssh-keygen -t rsa
-pbcopy < ~/.ssh/id_rsa.pub
-git clone git@github.com:arthurcahen/abc.git
-# update profile 
+# Append the contents of .zshenv to the existing .zshenv file in the user's home directory to update the profile
 cat .zshenv >> /Users/{USERNAME}/.zshenv
